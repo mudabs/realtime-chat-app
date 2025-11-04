@@ -3,6 +3,8 @@
 A production-ready **real-time chat application** built with **React** and **Supabase**, deployed on a personal **VPS (IONOS, AlmaLinux)** and live at:  
 🔗 [https://realtimechat.munashemudabura.com/](https://realtimechat.munashemudabura.com/)
 
+![Chat Interface](./public/screenshots/home.png)
+
 This project implements modern chat functionalities: authentication, one-on-one messaging, file attachments, and realtime delivery, through an elegant, responsive web interface.
 
 > 🚧 **Note:** Mobile client support (React Native) is currently a work in progress.
@@ -145,14 +147,17 @@ You can serve them via **Nginx**, **Apache**, or any static web server.
 
 ## 🖼️ Screenshots
 
-```markdown
-![Login Page](./screenshots/login.png)
-![Chat Interface](./screenshots/chat.png)
-![Chat Interface](./screenshots/home.png)
-![Profile Settings](./screenshots/newchat.png)
-![Chat Interface](./screenshots/register.png)
-![Chat Interface](./screenshots/settings.png)
-```
+![Login Page](./public/screenshots/login.png)
+
+![Chat Interface](./public/screenshots/home.png)
+
+![Chat Interface](./public/screenshots/chat.png)
+
+![Profile Settings](./public/screenshots/newchat.png)
+
+![Chat Interface](./public/screenshots/register.png)
+
+![Chat Interface](./public/screenshots/settings.png)
 
 Once uploaded, they will automatically render in this section.
 
@@ -196,7 +201,6 @@ Please fork the repository, create a feature branch, and submit a PR with clear 
 
 ## 🧾 License
 
-No license has been applied yet.  
-You may later choose to add a license such as **MIT** or **GPL** depending on how you plan to distribute or share your project.
+No license has been applied yet.
 
 ---
